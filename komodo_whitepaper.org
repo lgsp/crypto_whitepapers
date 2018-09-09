@@ -1,0 +1,10 @@
+#+TITLE: Papier blanc de la crypto Komodo
+#+AUTHOR: Laurent Garnier
+
+* Méthode de sécurité Komodo : preuve de travail différé (DOW : Delayed Proof Of Work)
+** Une discussion fondamentale de la sécurité d'une blockchain
+** La preuve de travail est la forme la plus sécurisée des mécanismes de consensus
+* Les ICO décentralisées (DICO : Decentralized Initial Coin Offering)
+* Barterdex place de marché décentralisée ou la puissance d'échange atomique Komodo
+* Jumblr la fonctionnalité native Komodo pour la vie privée
+* Information supplémentaire selon l'écosystème Komodo
