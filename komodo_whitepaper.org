@@ -8,3 +8,4 @@
 * Barterdex place de marché décentralisée ou la puissance d'échange atomique Komodo
 * Jumblr la fonctionnalité native Komodo pour la vie privée
 * Information supplémentaire selon l'écosystème Komodo
+Mise à jour de Laurent
